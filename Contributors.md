@@ -2001,6 +2001,7 @@ Eoin O'B
 - I am MJV(jagan venkat)
 - [Heena](https://github.com/heenaf)
 - [Prasannjit Panda](https://github.com/prasannjitpanda)
+- [berga](https://github.com/Cptberga)
 - [Dhruv Kalra](https://github.com/KalraDhruv)
 - [Pratyush Gupta](https://github.com/MrPratsJi)
 - [Popie 52](https://github.com/Popie52)
